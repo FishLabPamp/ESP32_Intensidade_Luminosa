@@ -11,4 +11,6 @@ void setup() {
 
 void loop() {
   // put your main code here, to run repeatedly:
+  Serial.print(F("\no melhor teste é o da verdade"));
+  
 }
